@@ -1,4 +1,9 @@
 Git is fast version control system
 Rohmi Bagchi
+<<<<<<< HEAD
 Making merging operation in Git
 Git merging operation is failed 
+=======
+rohmibagchi@outlook.com
+Git is a good one 
+>>>>>>> b7c5c0c6c0d17407c31393610c954e1ebc71e7dc
