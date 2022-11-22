@@ -1,2 +1,4 @@
 Git is fast version control system
 Rohmi Bagchi
+Making merging operation in Git
+Git merging operation is failed 
